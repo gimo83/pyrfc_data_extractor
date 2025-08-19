@@ -207,3 +207,5 @@ __marimo__/
 #####################################################
 config.ini
 config.ini
+output_report/*
+!output_report/readme.txt
